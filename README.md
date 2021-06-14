@@ -43,6 +43,7 @@ More info coming soon..
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons,
   by the makers of Tailwind CSS.
 - [fakestoreapi.com](https://fakestoreapi.com/) - Fake store rest API for your e-commerce or shopping website prototype
+- [next-auth.j](https://next-auth.js.org/) - Authentication for Next.js
 
 ## Acknowledgments
 
