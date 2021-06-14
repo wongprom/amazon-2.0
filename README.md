@@ -1,6 +1,6 @@
 # Project Title
 
-Amazone clone...
+Amazone clone 2.0 ==> [Have a look](https://amazon-2-0-wine.vercel.app/)
 
 # Getting Started
 
@@ -32,7 +32,10 @@ Run commands
 
 ## Deployment
 
-More info coming soon..
+- [Vercel.com](https://vercel.com/) - Vercel combines the best developer experience with an obsessive focus on end-user performance.
+Our platform enables frontend teams to do their best work.
+
+
 
 ## Built With
 
