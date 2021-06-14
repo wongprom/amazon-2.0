@@ -1,28 +1,49 @@
-# Installation Steps
+# Project Title
 
+Amazone clone...
 
+# Getting Started
 
-## Using npm
+More info coming soon..
+
+## Installation Steps
+
+### Using npm
 
 Run commands
 
-1) ```npm install```
+1. `git clone`
 
+2. `npm install`
 
-2) ```npm run dev```
+3. `npm run dev`
 
+### Or using yarn
 
-## Or using yarn
+Run commands
 
-Run commands 
+1. `git clone`
 
-1) ```npm install --global yarn```
+2. `npm install --global yarn`
 
-2) ```yarn install```
+3. `yarn install`
 
-3) ```yarn run dev```
+4. `yarn run dev`
 
+## Deployment
 
-### If you see the window below then you are set to build AMAZON 2.0!
+More info coming soon..
 
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
+## Built With
+
+- [create-next-app](https://nextjs.org/) - The React Framework
+  for Production
+- [react-responsive-carousel](https://www.npmjs.com/package/react-responsive-carousel) - Powerful, lightweight and fully customizable carousel component for React apps.
+- [Tailwindcss](https://tailwindcss.com/) - Rapidly build modern websites without ever leaving your HTML.
+- [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons,
+  by the makers of Tailwind CSS.
+- [fakestoreapi.com](https://fakestoreapi.com/) - Fake store rest API for your e-commerce or shopping website prototype
+
+## Acknowledgments
+
+- Big thanks to **#papafam**
