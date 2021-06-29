@@ -46,6 +46,8 @@ Our platform enables frontend teams to do their best work.
 - [Heroicons](https://heroicons.com/) - Beautiful hand-crafted SVG icons,
   by the makers of Tailwind CSS.
 - [fakestoreapi.com](https://fakestoreapi.com/) - Fake store rest API for your e-commerce or shopping website prototype
+- [next-auth.j](https://next-auth.js.org/) - Authentication for Next.js
+- [Redux - @reduxjs/toolkit](https://www.npmjs.com/package/@reduxjs/toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 
 ## Acknowledgments
 
