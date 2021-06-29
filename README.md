@@ -33,9 +33,7 @@ Run commands
 ## Deployment
 
 - [Vercel.com](https://vercel.com/) - Vercel combines the best developer experience with an obsessive focus on end-user performance.
-Our platform enables frontend teams to do their best work.
-
-
+  Our platform enables frontend teams to do their best work.
 
 ## Built With
 
@@ -48,6 +46,7 @@ Our platform enables frontend teams to do their best work.
 - [fakestoreapi.com](https://fakestoreapi.com/) - Fake store rest API for your e-commerce or shopping website prototype
 - [next-auth.j](https://next-auth.js.org/) - Authentication for Next.js
 - [Redux - @reduxjs/toolkit](https://www.npmjs.com/package/@reduxjs/toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
+- [Stripe Payment - Checkout](https://stripe.com/docs/payments/checkout) - The quickest way to build conversion-optimized payment forms, hosted on Stripe.
 
 ## Acknowledgments
 
