@@ -48,6 +48,16 @@ Run commands
 - [Redux - @reduxjs/toolkit](https://www.npmjs.com/package/@reduxjs/toolkit) - The official, opinionated, batteries-included toolset for efficient Redux development
 - [Stripe Payment - Checkout](https://stripe.com/docs/payments/checkout) - The quickest way to build conversion-optimized payment forms, hosted on Stripe.
 
+# CLI commands...
+
+### Stripe webhook
+
+- Stripe CLI ==> `stripe listen --forward-to localhost:3000/api/webhook`
+
+gets
+
+`Ready! Your webhook signing secret is whsec_wi6...1pJ (^C to quit)`
+
 ## Acknowledgments
 
 - Big thanks to **#papafam**
